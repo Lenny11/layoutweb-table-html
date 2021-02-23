@@ -1,2 +1,2 @@
 # layoutweb-table-html
-Belajar Membuat Table di Html
+Belajar Membuat Table di Html , Membuat table LayOut sebuah website yang terdiri dari kepala website , Navbar , Dan bagian konten , Footer . Silahkan di Cek Code diatas Ya...
